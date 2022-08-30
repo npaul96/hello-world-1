@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Sign up for the Jwet!</h1>
-    <p>Fill in this form to create an account.</p>
+    <h1>Sign up for the Jwett today!</h1>
+    <p>Fill in this form to create an account. Get active!</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
