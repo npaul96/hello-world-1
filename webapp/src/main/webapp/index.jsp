@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for Jwett updates! :Version 3</h1>
+    <h1>Register for Jwett updates! :Version 3.1</h1>
     <p>Fill in this form to create an account. Get active!!</p>
     <hr>
      
