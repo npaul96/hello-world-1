@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for Jwett updates! Version: 7 Ansible</h1>
+    <h1>Register for Jwett updates! Version: 7.1 Ansible</h1>
     <p>Fill in this form to create an account. Get active!!</p>
     <hr>
      
